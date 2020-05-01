@@ -63,13 +63,13 @@ roles:
       
 #Education is required
 education:
- - level: Masters of Architecture (MARCH)
+ - level: Masters of Architecture
    date: 2011
    subject: Sustainable Design and Development
    school: THE PENNSYLVANIA STATE UNIVERSITY, UNIVERSITY PARK, PA
   
  education:
- - level: Bachelor of Architecture (MARCH)
+ - level: Bachelor of Architecture 
    date: 2004
    subject: Architectural Engineering
    school: An Najah National University, Nablus, Palestine
