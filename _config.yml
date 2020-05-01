@@ -76,12 +76,12 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - https://github.com/halahaddad1/inspiration-board
- - https://github.com/halahaddad1/exquisite-react
- - https://github.com/halahaddad1/react-tic-tac-toe
- - https://github.com/halahaddad1/slack-cli
- - https://github.com/halahaddad1/hotel
- - https://github.com/halahaddad1/oo-ride-share
+ - halahaddad1/inspiration-board
+ - halahaddad1/exquisite-react
+ - halahaddad1/react-tic-tac-toe
+ - halahaddad1/slack-cli
+ - halahaddad1/hotel
+ - halahaddad1/oo-ride-share
 
 intro: |
   
