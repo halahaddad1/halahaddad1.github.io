@@ -83,12 +83,12 @@ github:
  - halahaddad1/hotel
  - halahaddad1/oo-ride-share
 
-intro: |
+intro: 
 Hala (she/her) has many years working in Architectural Sustainable Design, teaching Green Building Technologies, and Environmental Awarness in general. Hala has a Masters degree in Architecture from the Pennsylvania State University, and after many years working in her field, moving to Seattle sparked an interest in the exciting fast paced world of Software Engineering! Hala found numerous similarities within the creative process of Architects and Software Engineers, especially the need to understand space functionality, human behavior and flow within a design! and is excited to embark on a journey where she gets to learn a new set of skills and use Architectural creativity within a new medium.  
 In her spare time Hala loves to spend quality time with her husband and two boys.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
+additionalinfo: 
    <strong>Ruby</strong>
    <strong>Ruby on Rails</strong>
    <strong>JavaScript</strong> 
