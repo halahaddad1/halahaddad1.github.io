@@ -1,9 +1,6 @@
 # Site settings
 title: Hala Haddad
 
-# Build settings
-markdown: kramdown
-
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
