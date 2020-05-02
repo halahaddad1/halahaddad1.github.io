@@ -19,6 +19,12 @@ skills:
  - HTML5
  - CSS3
  - Java
+ - Autodesk Autocad
+ - Autodesk REVIT
+ - Ecotect Analysis
+ - Green Building Studio
+ - Adobe Suite
+ - 3D Studio Max
 
 #Work experience is required
 roles:
@@ -83,20 +89,7 @@ github:
 intro: Hala (she/her) has many years working in Architectural Sustainable Design, teaching Green Building Technologies, and Environmental Awarness in general. Hala has a Masters degree in Architecture from the Pennsylvania State University, and after many years working in her field, moving to Seattle sparked an interest in the exciting fast paced world of Software Engineering! Hala found numerous similarities within the creative process of Architects and Software Engineers, especially the need to understand space functionality, human behavior and flow within a design! and is excited to embark on a journey where she gets to learn a new set of skills and use Architectural creativity within a new medium. In her spare time Hala loves to spend quality time with her husband and two boys.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: 
-   <strong>Ruby</strong>
-   <strong>Ruby on Rails</strong>
-   <strong>JavaScript</strong> 
-   <strong>React</strong>
-   <strong>HTML5</strong>
-   <strong>CSS3</strong>
-   <strong>Java</strong>
-   <strong>Autodesk Autocad</strong>
-   <strong>Autodesk REVIT</strong>
-   <strong>Ecotect Analysis</strong>
-   <strong>Green Building Studio</strong>
-   <strong>Adobe Suite</strong>
-   <strong>3D Studio Max</strong>
+
 
 
    
